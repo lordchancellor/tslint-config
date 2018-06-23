@@ -148,7 +148,7 @@
     "use-pipe-transform-interface": true,
     "component-class-suffix": [
       true,
-      "Component",
+      "Component"
     ],
     "directive-class-suffix": true,
     "array-type": [
